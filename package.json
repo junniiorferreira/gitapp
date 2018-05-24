@@ -1,5 +1,5 @@
 {
-  "name": "gitapp_beta_01",
+  "name": "gitapp",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "junniiorferreira <kyrvim@gmail.com>",
@@ -10,9 +10,10 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "buefy": "^0.6.5",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-resource": "^1.5.1",
+    "vue-router": "^3.0.1",
+    "vuetify": "^1.0.0"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

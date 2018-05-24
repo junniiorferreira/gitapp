@@ -1,4 +1,4 @@
-# gitapp_beta_01
+# vuenews
 
 > A Vue.js project
 
